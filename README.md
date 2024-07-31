@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the ACE Data Science Internship team! Our project involves working with DHS (Demographic and Health Surveys) raw data to extract, analyze, and visualize key insights. This project is part of the ACE Data Science Internship program under the supervision of [Supervisor's Name].
+Welcome to the ACE Data Science Internship team! Our project involves working with DHS (Demographic and Health Surveys) raw data to extract, analyze, and visualize key insights. This project is part of the ACE Data Science Internship program under the supervision of [Mugume Twinamatsiko Atwine].
 
 ## Team Members
 

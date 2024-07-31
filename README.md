@@ -30,7 +30,7 @@ Welcome to the ACE Data Science Internship team! Our project involves working wi
    - Set up project environment
    - Initial data merging
 
-2. **Week 5-6**:
+2. **Week 5-7**:
    - Initial data cleaning
    - Start drafting the report
 

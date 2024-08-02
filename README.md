@@ -10,7 +10,7 @@ Welcome to the ACE Data Science Internship team! Our project involves working wi
 - **[Juliet Nabateesa]** 
 - **[Emmanuel Aroma]** 
 - **[Davis Nkurunziza]** 
-- **[Edward mutesasira]** 
+- **[Edward Mutesasira]** 
 
 ## Supervisor
 

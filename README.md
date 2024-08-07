@@ -20,7 +20,7 @@ Welcome to the ACE Data Science Internship team! Our project involves working wi
 
 1. **Data Preprocessing**: Merge and clean the raw DHS data to ensure it is ready for analysis.
 2. **Data Analysis**: Perform exploratory data analysis (EDA) to identify key trends and patterns.
-3. **Visualization**: Create visualizations to effectively communicate findings.
+3. **Feature Selection**: Select features for model training.
 4. **Reporting**: Compile a comprehensive report of our findings.
 
 ## Project Milestones
@@ -37,7 +37,7 @@ Welcome to the ACE Data Science Internship team! Our project involves working wi
 3. **Week 8-9**:
    - Conduct exploratory data analysis (EDA) 
    - Identify key variables and relationships
-   - Develop visualizations
+   - Feature Selection
 
 4. **Week 10**:
    - Finalize report
@@ -50,13 +50,9 @@ We are nearing the completion of our project. Here is a summary of what has been
 
 - **Data Preprocessing**: Completed
 - **Exploratory Data Analysis**: Completed
-- **Visualization**: In progress
+- **Feature Selection**: In progress
 - **Report Drafting**: In progress
 - **Final Report and Presentation**: To be finalized
-
-## Data Sources
-
-- **DHS Raw Data**: [[Link to data source](https://github.com/edimate/ACE-data-science-internship-project/blob/main/dhs_data.zip)]
 
 ## Tools and Technologies
 
@@ -67,6 +63,3 @@ We are nearing the completion of our project. Here is a summary of what has been
 - **Jupyter Notebook**: For interactive coding and documentation
 - **Git/GitHub**: For version control and collaboration
 - **Kaggle**: For data storage, coding, analysis, and collaboration
-
-## Repository Structure
-
